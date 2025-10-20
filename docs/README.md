@@ -7,16 +7,16 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      name: QUST MC
+      tagline: 资源文档整合
+      text: 相关资源分享 | MC服务器信息 | 其他内容
       actions:
         -
           theme: brand
-          text: 博客
-          link: /blog/
+          text: 文档
+          link: /docs/
         -
           theme: alt
           text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          link: https://github.com/MingriLingran/Qust-docs
 ---
